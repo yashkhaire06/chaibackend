@@ -1,0 +1,21 @@
+{
+  "name": "chaibckend",
+  "version": "1.0.0",
+  "description": "an app to deploy ",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "yash khaire",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "env": "^0.0.2",
+    "express": "^5.2.1"
+  }
+}
